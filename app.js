@@ -49,7 +49,6 @@ for(let i = 0; i < numberOfDrumButtons; i++) {
 
 }
 
-
-/*
-  
-    */
+document.addEventListener('keydown', function(event) {
+    console.log(event)
+})

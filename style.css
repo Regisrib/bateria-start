@@ -1,27 +1,34 @@
 .w {
     background-image: url('./images/tom1.png');
+    border-radius: 100%;
 }
 
 .a {
      background-image: url('./images/tom2.png');
+     border-radius: 100%;
 }
 
 .s {
      background-image: url('./images/tom3.png');
+     border-radius: 100%;
 }
 
 .d {
      background-image: url('./images/tom4.png');
+     border-radius: 100%;
 }
 
 .j {
      background-image: url('./images/snare.png');
+     border-radius: 100%;
 }
 
 .k {
      background-image: url('./images/crash.png');
+     border-radius: 100%;
 }
 
 .l {
      background-image: url('./images/kick.png');
+     border-radius: 100%;
 }
